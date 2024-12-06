@@ -1,1 +1,1 @@
-# Sample-EDASubmissin-Hotel-Booking-
+# Exploratory-Data-Analysis-EDA-and-Regression
